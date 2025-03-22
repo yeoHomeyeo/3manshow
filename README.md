@@ -12,7 +12,7 @@ Group activity to familiarize with git
 3. `git diff`
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<descriptive message>"`
+6. `git commit -m "<descriptive message>"`     //jt
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
