@@ -2,6 +2,9 @@
 # 3manshow
 Coaching 22Mar25 - collaboration in Git
 
+<<<<<<< HEAD
+added by stewart
+=======
 
 # Overview
 Group activity to familiarize with git
@@ -22,3 +25,4 @@ Group activity to familiarize with git
 # Code Contributors
 - <alias of developer>
 
+>>>>>>> d81d9d48fd0c9e11d6e4447c63dad4dd598529a8
